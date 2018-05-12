@@ -8,5 +8,5 @@ Steps:
 3. Learn,work, write down, and do it again.
 4. Submit the report.
 
-(Later I will go through my work and explain everything)
+(Later I will go through my work and explain everything, I choose the Titanic dataset)
 ![alt text](https://i.imgur.com/B37ZUKt.png)
