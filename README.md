@@ -1,2 +1,12 @@
 # Investigate-a-Dataset
 The aim of this project is to analyze dataset and translate my findings into clear and well put report.
+
+ 
+Steps:
+1- Install Python, pandas, NumPy, Matplotlib and csv or Anaconda.
+2-Chose a dataset from list that Udacity provide.
+3-Learn,work, write down, and do it again.
+4-Submit the report.
+
+
+![alt text](https://drive.google.com/open?id=1ihIBRYNHuvK1cSO7WcOnNEtSrygz6PWR)
