@@ -9,4 +9,4 @@ Steps:
 4-Submit the report.
 
 
-![alt text](https://drive.google.com/open?id=1ihIBRYNHuvK1cSO7WcOnNEtSrygz6PWR)
+![alt text](https://drive.google.com/file/d/1ihIBRYNHuvK1cSO7WcOnNEtSrygz6PWR/view.png)
